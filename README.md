@@ -11,3 +11,5 @@ Survive for as long as you can. Enemies will come in randomly wich
 will make every game different. Sometimes hard, sometimes easy and
 sometimes close to impossible.
 
+Run game by starting theGame file !
+
